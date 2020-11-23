@@ -1,0 +1,11 @@
+{
+  "docs": {
+    "Architecture": [
+      "architecture/interfaces",
+      "architecture/mappers",
+      "architecture/services",
+      "architecture/facades",
+      "architecture/components"
+    ]
+  }
+}
